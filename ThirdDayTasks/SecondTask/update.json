@@ -1,0 +1,10 @@
+{
+  "name": "Manvel",
+  "age": 17,
+  "skills": [
+    "JS",
+    "Node",
+    "React"
+  ],
+  "isStudent": true
+}
