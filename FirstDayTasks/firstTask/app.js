@@ -1,4 +1,4 @@
-const mathUtils = require("./mathUtils.cjs");
+const mathUtils = require("./mathUtils.js");
 
 console.log(mathUtils.add(4, 2));
 console.log(mathUtils.sub(5, 4));
